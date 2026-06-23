@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is Reinforcement learning?",
+    "ground_truth": "Reinforcement learning is one of the three basic machine learning paradigms, alongside supervised learning and unsupervised learning.",
+    "source": "reinforcement_learning.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is This pre-trained model?",
+    "ground_truth": "This pre-trained model is then adapted to a specific task using a labeled dataset (the \"fine-tuning\" step).",
+    "source": "gpt.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "Why is Beyond efficiency gains, RAG also important?",
+    "ground_truth": "Beyond efficiency gains, RAG also allows LLMs to include sources in their responses, so users can verify the cited sources.",
+    "source": "retrieval-augmented_generation.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Natural language processing (NLP)?",
+    "ground_truth": "Natural language processing (NLP) is the processing of natural language information by a computer.",
+    "source": "natural_language_processing.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What does The architecture's use?",
+    "ground_truth": "The architecture's use of an attention mechanism allows models to process entire sequences of text at once, enabling the training of much larger and more sophisticated models.",
+    "source": "generative_pre-trained_transformer.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Once the words?",
+    "ground_truth": "Once the words are disambiguated, they can be used in a standard word embeddings technique, so multi-sense embeddings are produced.",
+    "source": "word_embedding.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Vector embeddings?",
+    "ground_truth": "Vector embeddings are mathematical representations of data in a high-dimensional space.",
+    "source": "vector_database.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Because self-attention alone?",
+    "ground_truth": "Because self-attention alone is permutation-invariant, transformers inject positional information, typically through positional encodings or learned positional embeddings, so token order can affect the output.",
+    "source": "transformer_deep_learning_architecture.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Retrieval-augmented generation (RAG)?",
+    "ground_truth": "Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information from external data sources.",
+    "source": "retrieval-augmented_generation.txt",
+    "evolution_type": "simple"
+  },
+  {
+    "question": "What is Data mining?",
+    "ground_truth": "Data mining is a related field of study, focusing on exploratory data analysis (EDA) through unsupervised learning.",
+    "source": "machine_learning.txt",
+    "evolution_type": "simple"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-06-22T14:34:14.091492",
+  "run1": "run_1_chunk512",
+  "run2": "run_2_chunk256",
+  "comparison": {
+    "faithfulness": {
+      "before": 0.9286,
+      "after": 0.5867,
+      "delta": -0.3419
+    },
+    "answer_relevancy": {
+      "before": 0.6554,
+      "after": 0.41,
+      "delta": -0.2454
+    },
+    "context_recall": {
+      "before": 0.8,
+      "after": 0.5556,
+      "delta": -0.2444
+    },
+    "overall": {
+      "before": 0.7947,
+      "after": 0.5174,
+      "delta": -0.2773
+    }
+  }
+}

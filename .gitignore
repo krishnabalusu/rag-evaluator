@@ -1,0 +1,51 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+caveman/
+
+# Vector store data (large binary files)
+vector_store_data/
+eval_vector_store/
+test_vector_store_temp/
+test_retriever_temp/
+
+# Wiki documents (downloadable via download_wiki.py)
+wiki_docs/
+
+# Sample docs
+sample_docs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
